@@ -2,7 +2,7 @@
 
 Bilinc as the memory of Hermes Agent with GPT 5.6 Luna on [DolphinBench](https://dolphinbench.ai): **443 of 600 tasks passed (73.8%) for $55.61 in total.**
 
-Results page: https://bilinc.space/benchmark
+Results page: https://bilinc.space/benchmark · DOI: [10.5281/zenodo.24525418](https://doi.org/10.5281/zenodo.24525418) · Dataset: [huggingface.co/datasets/atakanelik34/bilinc-dolphinbench-results](https://huggingface.co/datasets/atakanelik34/bilinc-dolphinbench-results)
 
 | Memory | Tasks passed | Accuracy | Total cost |
 |---|---|---|---|
