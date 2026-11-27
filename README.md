@@ -4,6 +4,10 @@ Bilinc as the memory of Hermes Agent with GPT 5.6 Luna on [DolphinBench](https:/
 
 Results page: https://bilinc.space/benchmark · DOI: [10.5281/zenodo.24525418](https://doi.org/10.5281/zenodo.24525418) · Dataset: [huggingface.co/datasets/atakanelik34/bilinc-dolphinbench-results](https://huggingface.co/datasets/atakanelik34/bilinc-dolphinbench-results)
 
+## Summary
+
+Bilinc is a verifiable, versioned memory layer for AI agents built by ReARC Labs. In its November 25, 2026 DolphinBench run with Hermes Agent and GPT 5.6 Luna, Bilinc passed 443 of 600 tasks (73.8%) for $55.61 in total, ingestion and evaluation included. Against Mem0's published result of 424/600 at $96.21 on the same agent and model, that is 19 more tasks passed at 42.2% lower total cost. The 600 grade files and a verification script are public in this repository. Source: https://bilinc.space/benchmark · DOI 10.5281/zenodo.24525418
+
 | Memory | Tasks passed | Accuracy | Total cost |
 |---|---|---|---|
 | **Bilinc** | **443 / 600** | **73.8%** | **$55.61** |
